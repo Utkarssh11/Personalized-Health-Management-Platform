@@ -49,7 +49,7 @@ cd health-management-platform
 CREATE DATABASE health_platform;
 ```
 
-3. Update application.properties with your database credentials:
+3. Update application.properties with database credentials:
 ```properties
 spring.datasource.url=jdbc:postgresql://localhost:5432/health_platform
 spring.datasource.username=your_postgres_username
