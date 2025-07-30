@@ -16,8 +16,8 @@ A comprehensive health management platform that allows patients, doctors, and ca
 ## Technology Stack
 
 ### Backend
-- Java 11
-- Spring Boot 2.7.0
+- Java
+- Spring Boot 
 - Spring Security with JWT
 - Spring Data JPA
 - PostgreSQL
@@ -25,16 +25,7 @@ A comprehensive health management platform that allows patients, doctors, and ca
 
 ### Frontend (To be implemented)
 - React.js
-- Material UI
-- Redux
-- Chart.js
 
-## Prerequisites
-
-- Java 11 or higher
-- Maven 3.6 or higher
-- PostgreSQL 12 or higher
-- Node.js 14 or higher (for frontend)
 
 ## Setup
 
