@@ -70,15 +70,6 @@ The application will start on `http://localhost:8080`
 - GET `/api/health-records/date-range` - Get health records within a date range
 - GET `/api/health-records/latest` - Get latest health records
 
-## Security
-
-The application implements the following security measures:
-
-- JWT-based authentication
-- Password encryption using BCrypt
-- Role-based access control
-- CORS configuration
-- HTTPS support (to be configured in production)
 
 ## Contributing
 
